@@ -8,9 +8,9 @@ COPY . .
 
 RUN npm i -g pm2
 
-RUN npm install
+RUN npm i
 
-RUN npm build
+RUN npm run build 
 
 EXPOSE 80
 
