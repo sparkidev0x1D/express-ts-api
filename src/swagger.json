@@ -1,0 +1,57 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "description": "TS-API",
+    "version": "1.0.0",
+    "title": "Boiler Plate TS-API"
+  },
+  "host": "localhost:3800",
+  "basePath": "/api",
+  "tags": [
+    {
+      "name": "UserModule",
+      "description": "User operations"
+    }
+  ],
+  "schemes": [
+    "http"
+  ],
+  "paths": {
+  
+    "/users/{id}": {
+      "get": {
+        "tags": [
+          "UserModule"
+        ],
+        "summary": "API to get user information based on id ",
+        "description": "pass the value to the id ",
+        "operationId": "RoleMappingAPI",
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "ID of the user",
+            "required": true,
+            "type": "integer",
+            "format": "int64"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          },
+          "500": {
+            "description": "Server Error"
+          },
+          "404" : {
+            "description": "Access denied"
+          }
+        }
+      }
+    }
+    
+  }
+}

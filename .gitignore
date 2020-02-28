@@ -1,0 +1,7 @@
+*.log
+package-lock.json
+node_modules/
+build/
+src/.scannerwork/*
+.scannerwork/*
+coverage/

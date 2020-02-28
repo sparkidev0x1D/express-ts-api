@@ -1,0 +1,1 @@
+Use this directory for building sql queries and resuing them as Models
