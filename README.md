@@ -29,12 +29,12 @@ Express TS API (Supports Debugging with vs-code)
 
    # src/drivers
 
-    - Database and other external connections driver pre configured
+    - Database and other external connections
 
 
    # src/helpers
 
-    - helper functions for controllers and data repository
+    - helper functions for controllers and data-repository
 
    # src/middlewares
 
@@ -48,19 +48,19 @@ Express TS API (Supports Debugging with vs-code)
 
    # src/query-builder
 
-    - Query builder for constructing raw queries for RDBMS 
+    - For constructing raw queries for RDBMS 
 
    # src/data-repositories
 
-    - Database access layer
+    - Database  access layer
 
    # src/response-handler
 
-    - Common response handler for http 
+    - Common response handler for http method
 
    # src/routes
 
-    - Common Route controller  
+    - Common Route directory  
 
 
    # /tests
