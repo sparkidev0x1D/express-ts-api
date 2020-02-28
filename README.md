@@ -63,7 +63,6 @@ Express TS API
 
     - Common Route controller  
 
-# For dev Configure Redis with docker
 
    # /tests
 
