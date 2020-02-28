@@ -52,7 +52,7 @@ Express TS API (Supports Debugging with vs-code)
 
    # src/data-repositories
 
-    - Database  access layer
+    - Database  access layer or abstraction layer
 
    # src/response-handler
 
