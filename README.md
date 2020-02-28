@@ -1,10 +1,14 @@
 # Express-TS-BoilerPlate-API
 
 
-Express TS API (Supports Debugging with vs-code)
+Express TS API 
+
+Supports Debugging with vs-code
 
 ![alt text](https://raw.githubusercontent.com/sharukhsharu/express-ts-api/v1/images/debug.png)
 
+
+Integrated test with Jest and Supertest
 
 ![alt text](https://raw.githubusercontent.com/sharukhsharu/express-ts-api/v1/images/tests.png)
 
