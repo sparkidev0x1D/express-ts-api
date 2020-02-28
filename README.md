@@ -1,7 +1,7 @@
 # Express-TS-BoilerPlate-API
 
 
-Express TS API (Supports Debugging with Vscode)
+Express TS API (Supports Debugging with vs-code)
 
 
       
