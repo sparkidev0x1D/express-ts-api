@@ -1,7 +1,7 @@
 # Express-TS-BoilerPlate-API
 
 
-Express TS API 
+Express TS API (Supports Debugging with Vscode)
 
 
       
@@ -12,9 +12,7 @@ Express TS API
       npm run test            #  to run test suite 
       npm run test-generate   #  to Generate Coverage Report on performed tests 
 
-  
 
-launch.json is preconfigured for debugging with vs-code
 
  
   # Routes
