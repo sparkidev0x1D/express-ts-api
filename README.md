@@ -38,7 +38,7 @@ Express TS API (Supports Debugging with vs-code)
 
    # src/middlewares
 
-    - Middlewares for the API routes
+    - middlewares for the express router
 
 
    # src/models
