@@ -7,7 +7,7 @@ Express TS API (Supports Debugging with vs-code)
       
       npm i                   #  Install all the packages 
       npm run dev             #  Running on dev 
-      npm run build           #  Build to js with js map 
+      npm run build           #  Builds and transpiles to Javascript 
       npm run debug           #  Debug with chrome 
       npm run test            #  to run test suite 
       npm run test-generate   #  to Generate Coverage Report on performed tests 
