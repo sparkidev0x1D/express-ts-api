@@ -56,7 +56,7 @@ Express TS API (Supports Debugging with vs-code)
 
    # src/response-handler
 
-    - Common response handler for http method
+    - Common response handler for http methods
 
    # src/routes
 
