@@ -14,6 +14,7 @@ Express TS API
 
   
 
+launch.json is preconfigured for debugging with vs-code
 
  
   # Routes
