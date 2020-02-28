@@ -48,7 +48,7 @@ Express TS API (Supports Debugging with vs-code)
 
    # src/query-builder
 
-    - For constructing raw queries for RDBMS 
+    -Constructing raw queries for Relational Databases alternatives to models 
 
    # src/data-repositories
 
