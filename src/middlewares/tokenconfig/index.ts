@@ -22,8 +22,8 @@ class TokenConfig
             {
                 const sign: string = jwt.sign(payload, this.certk,
                 {
-                    issuer: 'KAEFER',
-                    audience :'web.kaefer.com',
+                    issuer: 'NODE',
+                    audience :'web.node.com',
                     algorithm: 'RS256',
                     expiresIn: expiry,
                     jwtid : jti 
@@ -53,7 +53,7 @@ class TokenConfig
                 const userdata = jwt.verify(token, this.certp,
                 {
                     algorithms: ['RS256'],
-                    issuer:'KAEFER',
+                    issuer:'NODE',
                     
                     
                 });
